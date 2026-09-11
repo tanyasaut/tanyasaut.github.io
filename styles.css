@@ -1,7 +1,7 @@
 :root {
-  --page-bg: #f3f5f7;
+  --page-bg: #f6f8fc;
   --surface: #ffffff;
-  --surface-muted: #eef3f8;
+  --surface-muted: #eef3fb;
   --text: #172033;
   --text-muted: #5c667a;
   --border: #cfd6df;
@@ -9,8 +9,8 @@
   --accent: #2457d6;
   --accent-dark: #173e9f;
   --accent-soft: #e8efff;
-  --radius: 12px;
-  --shadow: 0 14px 35px rgba(23, 32, 51, 0.07);
+  --radius: 10px;
+  --shadow: 0 8px 30px rgba(23, 32, 51, 0.07);
   --container: 1120px;
 }
 
@@ -428,6 +428,12 @@ h3 {
   font-size: 0.82rem;
   font-weight: 800;
   text-transform: uppercase;
+}
+
+.language-note{
+  display: block;
+  margin-top: 0.2rem;
+  font-weight: 400;
 }
 
 .plain-list {
