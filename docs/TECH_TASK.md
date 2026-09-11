@@ -17,7 +17,7 @@
 
 **Ссылка на GitHub Pages:** [https://tanyasaut.github.io/]
 
-**Ссылка на основной pull request:** [ВСТАВЬТЕ ССЫЛКУ]
+**Ссылка на основной pull request:** [https://github.com/tanyasaut/tanyasaut.github.io/pull/1]
 
 ---
 
